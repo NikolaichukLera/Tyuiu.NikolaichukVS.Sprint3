@@ -14,7 +14,7 @@ namespace Tyuiu.NikolaichukVS.Sprint3.Task5.V3.Lib
         {
             double sumSeries = 0;
             int j, k;
-            for ( j = startValue1; j <= stopValue1; j++)
+            for (j = startValue1; j <= stopValue1; j++)
             {
                 for (k = startValue2; k <= stopValue2; k++)
                 {
