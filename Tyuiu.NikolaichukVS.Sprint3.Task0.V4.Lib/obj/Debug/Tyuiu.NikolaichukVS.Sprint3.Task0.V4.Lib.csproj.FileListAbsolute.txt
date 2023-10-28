@@ -1,0 +1,8 @@
+C:\Users\РЎТЎК\source\repos\Tyuiu.NikolaichukVS.Sprint3\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib\bin\Debug\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib.dll
+C:\Users\РЎТЎК\source\repos\Tyuiu.NikolaichukVS.Sprint3\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib\bin\Debug\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib.pdb
+C:\Users\РЎТЎК\source\repos\Tyuiu.NikolaichukVS.Sprint3\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\РЎТЎК\source\repos\Tyuiu.NikolaichukVS.Sprint3\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib\obj\Debug\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib.csproj.AssemblyReference.cache
+C:\Users\РЎТЎК\source\repos\Tyuiu.NikolaichukVS.Sprint3\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib\obj\Debug\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib.csproj.CoreCompileInputs.cache
+C:\Users\РЎТЎК\source\repos\Tyuiu.NikolaichukVS.Sprint3\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib\obj\Debug\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib.csproj.CopyComplete
+C:\Users\РЎТЎК\source\repos\Tyuiu.NikolaichukVS.Sprint3\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib\obj\Debug\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib.dll
+C:\Users\РЎТЎК\source\repos\Tyuiu.NikolaichukVS.Sprint3\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib\obj\Debug\Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Lib.pdb
