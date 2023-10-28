@@ -9,7 +9,7 @@ namespace Tyuiu.NikolaichukVS.Sprint3.Task0.V4.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void ValidGetMultiplySeries()
+        public void ValidGetMultySeries()
         {
             DataService ds = new DataService();
 
