@@ -14,7 +14,7 @@ namespace Tyuiu.NikolaichukVS.Sprint3.Task6.V19
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #3 | Выполнила: Николайчук В. С.| РПСБ-23-1    ";
+            Console.Title = "Спринт #3 | Выполнила: Николайчук В. С.| РПСБ-23-1";
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
@@ -39,6 +39,7 @@ namespace Tyuiu.NikolaichukVS.Sprint3.Task6.V19
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
+
 
             Console.WriteLine("Сумма делителей = " + ds.GetSumTheDivisors(startValue, stopValue));
 

@@ -16,6 +16,7 @@ namespace Tyuiu.NikolaichukVS.Sprint3.Task6.V19.Test
             int startValue = 10;
             int stopValue = 15;
 
+
             int res = ds.GetSumTheDivisors(startValue, stopValue);
 
             int wait = 45;

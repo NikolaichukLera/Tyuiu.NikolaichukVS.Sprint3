@@ -14,6 +14,7 @@ namespace Tyuiu.NikolaichukVS.Sprint3.Task6.V19.Lib
         {
             int x;
             int sum = 0;
+
             for (x = startValue; x <= stopValue; x++)
             {
                 for (int d = 1; d <= 8; d++)
